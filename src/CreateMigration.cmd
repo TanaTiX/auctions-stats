@@ -1,0 +1,1 @@
+dotnet ef migrations add %1 --project AuctionsStats.Data -s AuctionsStats.WebApplication

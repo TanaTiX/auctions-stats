@@ -1,0 +1,1 @@
+dotnet ef database update --project AuctionsStats.Data -s AuctionsStats.WebApplication
